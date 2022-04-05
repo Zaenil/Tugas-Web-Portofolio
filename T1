@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1> Profil Diri </h1>
+<h2 style="color:red;"> Zaenil Muttakin<h2>      
+
+<img src="img/Zaenil.jpg" style="width: 100px;height: 100px;border-radius: 100%;" />
+
+
+<h1>NIM   20083000189 </h1>
+<p> Kelas  4 RS </p>
+<hr>
+
+<h2>Sistem Informasi</h2>
+<p>Pemerograman Web </p>
+<hr>
+
+<h2>Membuat Profil Diri</h2>
+<p>Selesai</p>
